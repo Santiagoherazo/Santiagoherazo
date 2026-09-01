@@ -50,7 +50,7 @@ I'm a results-driven Software Engineering student and independent Full Stack dev
 ### 📈 Professional Experience
 * **Independent Software Developer (March 2020 - Present):** Custom development as a freelancer — dynamic and static websites, web apps, and PWAs, with a full stack profile. CMS maintenance (WordPress, Joomla, Drupal) and new module/feature development.
 * **Technical Auditor & Academic Support — Clack (June 2021 - December 2023):** Guided and audited students' programming projects, reviewing code, advising on architecture and implementation, and producing technical documentation.
-* **Software Engineering Student (Ongoing):** Instituto Tecnológico Metropolitano Pascual Bravo, Medellín — combining hands-on freelance experience with academic foundations in software design.
+* **Software Engineering Student (Ongoing):** Institución Universitaria Pascual Bravo, Medellín — combining hands-on freelance experience with academic foundations in software design.
 
 ---
 
